@@ -1,0 +1,12 @@
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/infrastructure/repository/CategorieRepository.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/infrastructure/repository/ProduitRepository.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/PocTalanApplication.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/domaine/services/CategorieService.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/application/response/ApiResponse.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/application/controller/ProduitController.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/domaine/modeles/Produit.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/infrastructure/services/ProduitServiceImpl.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/domaine/services/ProduitService.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/infrastructure/services/CategorieServiceImpl.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/domaine/modeles/Categorie.java
+/home/alex/IdeaProjects/poc-talan/src/main/java/com/talan/poctalan/application/controller/CategorieController.java
